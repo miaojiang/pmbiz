@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Seattle Pro"
-  content : "西雅图最专业的一站式房产服务中心、本地团队、20年以上投资管理经验。您值得信赖的业务伙伴。"
+  content : "西雅图最专业的一站式房产服务中心、本地团队、20年以上投资管理经验。您值得信赖的合作伙伴。"
   button:
     enable : true
     label : "我们的服务"
