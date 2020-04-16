@@ -1,4 +1,4 @@
-baseURL = "https://brave-franklin-0f3b1a.netlify.app/"
+baseURL = "https://seattlepro.net"
 disableLanguages = ["en"]
 DefaultContentLanguage = "zh-cn"
 disqusShortname = ""
@@ -72,5 +72,5 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
-preloader = "images/logo.png"
+preloader = "images/logo2.png"
 
