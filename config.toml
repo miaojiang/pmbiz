@@ -1,5 +1,6 @@
 baseURL = "https://brave-franklin-0f3b1a.netlify.app/"
 disableLanguages = ["en"]
+DefaultContentLanguage = "zh-cn"
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
