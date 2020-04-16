@@ -4,13 +4,13 @@ about:
   title : 关于我们
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : 可靠
-    content : 西雅图本地团队，微信、电话、邮件可随时联系。
+    title : 可靠团队
+    content : 西雅图本地团队，微信、电话、邮件可随时联系！
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : 专业
-    content : 团队总共有20年以上管理经验，经手上百套房产。
+    title : 专业素养
+    content : 团队共有20年以上房产投资、管理经验，经手上千套房产。
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-heart # themify icon pack : https://themify.me/themify-icons
     title : 客户至上
-    content : 不满意可随时终止服务，合同中无任何锁定期限。
+    content : 客户不满意可随时终止服务，合同中无任何锁定期限。

@@ -5,30 +5,30 @@ service:
   service_item :
     # service item loop
     - name : 房屋租赁
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      icon : ti-home # themify icon pack : https://themify.me/themify-icons
       content : 挂牌租赁、租客背景调查、租赁前后房屋检查、故障维修、房租收取、纠纷处理。
       
     # service item loop
     - name : 物业托管
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      icon : ti-briefcase # themify icon pack : https://themify.me/themify-icons
       content : 不论是出租房或是空置房，我们都能提供专业的托管服务。
       
     # service item loop
     - name : 维护翻新
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+      icon : ti-hummer # themify icon pack : https://themify.me/themify-icons
       content : 我们可以提供一站式的房屋维修、升级、和翻新服务。
       
     # service item loop
     - name : Airbnb管理
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      icon : ti-calendar # themify icon pack : https://themify.me/themify-icons
       content : 我们团队管理着西雅图几十套短租房，帮助业主实现高现金流。
       
     # service item loop
     - name : 房屋买卖
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      icon : ti-wallet # themify icon pack : https://themify.me/themify-icons
       content : 我们优秀的经纪人团队助您在西雅图安家置业。
       
     # service item loop
     - name : 投资咨询
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
       content : 资深团队提供详尽的投资咨询服务，助您实现财富增长。

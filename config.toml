@@ -5,7 +5,7 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "Meghna"
+title = "Seattle Pro"
 
 [Languages.en]
 contentDir = "content/english"
@@ -16,38 +16,35 @@ weight = 2
 
 [Languages.zh-cn]
 contentDir = "content/chinese"
-home = "Home"
+home = "主页"
 languageCode = "zh-cn"
 languageName = "中文"
 weight = 1
+
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "联系我们"
 weight = 4
 [[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
-weight = 3
-[[menu.main]]
 URL = "services"
-name = "Service"
+name = "服务"
 weight = 2
 [[menu.main]]
 URL = "about"
-name = "About Us"
+name = "关于我们"
 weight = 1
 
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax HTML5 Template"
+author = "Seattle Pro"
+description = "西雅图物业管理 ｜ 西雅图房屋出租 ｜ 西雅图物业托管 ｜ 西雅图Airbnb管理 ｜ 西雅图投资咨询"
 google_analitycs_id = ""
-logo = "images/logo.png"
+logo = ""
 post_share = true
 [params.map]
 enable = false
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBZoSE_W7R-0FFbhXNkmY9uh4jYmpKBK-Y"
+map_latitude = "47.6200623"
+map_longitude = "-122.3386707"
 map_marker = "images/marker.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
@@ -76,21 +73,4 @@ link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
 preloader = "images/logo.png"
-[[params.social]]
-icon = "ti-facebook"
-link = "#"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-youtube"
-link = "#"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
-[[params.social]]
-icon = "ti-dribbble"
-link = "#"
-[[params.social]]
-icon = "ti-pinterest"
-link = "#"
+
