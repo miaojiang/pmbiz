@@ -1,4 +1,4 @@
-baseURL = "https://examplesite.com"
+baseURL = "https://brave-franklin-0f3b1a.netlify.app/"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
